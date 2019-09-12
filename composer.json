@@ -1,0 +1,19 @@
+{
+    "name": "lcloss/cloudflareapi",
+    "description": "Cloudflare API 4.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luciano Closs",
+            "email": "lcloss@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LCloss\\CloudflareApi\\": "src/"
+        }
+    }
+}
