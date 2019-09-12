@@ -8,7 +8,7 @@
  
 namespace LCloss\CloudflareApi;
 
-class CloudflareApi {
+class CloudflareAPI {
     protected $zoneId = '';
     protected $token = '';
 
