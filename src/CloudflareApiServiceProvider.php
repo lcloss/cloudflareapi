@@ -1,5 +1,7 @@
 <?php
 
+namespace LCloss\CloudflareApi;
+
 use Illuminate\Support\ServiceProvider;
 
 class CloudflareApiServiceProvider extends ServiceProvider {
