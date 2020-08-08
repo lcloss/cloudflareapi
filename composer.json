@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "LCloss\\CloudflareApi\\": "src/"
+            "LCloss\\CloudflareApi\\": ""
         }
     }
 }
