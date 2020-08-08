@@ -6,6 +6,8 @@
  * This will work with Cloudflare API 4.0
  */
  
+namespace LCloss\CloudflareApi;
+
 class CloudflareAPI {
     protected $zoneId = '';
     protected $token = '';
